@@ -1,5 +1,5 @@
 # Machine-Learning-Specialization
-AI concepts and practical machine learning, 3-course program by AI visionary Andrew Ng.
+Stanford Specialization - AI concepts and practical machine learning, 3-course program by AI visionary Andrew Ng.
 
 Course 01 - Supervised Machine Learning: Regression and Classification
 
