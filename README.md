@@ -15,6 +15,11 @@ Course 02 - Advanced Learning Algorithms
 *  Advice for Model Development
 *  Artificial Neural Network
 *  Xgboost
-*   Tree Ensembles
+*  Tree Ensembles
   
 Course 03 - Unsupervised Learning, Recommenders, Reinforcement Learning
+
+* Machine Learning Algorithms
+* Applied Machine Learning
+* Human Learning
+* Deep Learning
